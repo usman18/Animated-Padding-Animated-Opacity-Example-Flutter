@@ -1,5 +1,8 @@
 # Flutter Animated Padding and Opacity
   An example demonstrating how to use Animated Padding and Animated Opacity in Flutter
+  
+## Article on the same
+ - [Medium](https://blog.prototypr.io/animated-padding-animated-opacity-in-flutter-fd3b710d058e)
  
 ## ScreenShots
 <img height=600 width=300 src="https://github.com/usman18/Flutter-Animated-Padding-and-Opacity/blob/master/Screenshots/pic.gif"
